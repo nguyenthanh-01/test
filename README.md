@@ -12,3 +12,6 @@
  - git commit -m "creating test.py"
  - git status
 #
+ - git commit -m "added myname module"
+ - git commit -m "created .gitignore"
+ 
