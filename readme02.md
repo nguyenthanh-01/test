@@ -1,4 +1,4 @@
  - cd :di chuyen den
- - ./***.py :open
- - mkdir ***.py :tao file 
+ - ./test.py :open
+ - mkdir code :tao file 
  - ls : danh sach
