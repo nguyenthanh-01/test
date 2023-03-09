@@ -1,3 +1,4 @@
  - cd :di chuyen den
  - cd.. :lui ve 1
  - cd\ :ve goc
+ - .\***.py : open
