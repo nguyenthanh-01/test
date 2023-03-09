@@ -3,3 +3,4 @@
  - cd\ :ve goc
  - .\***.py :open
  - mkdir ***.py :tao file 
+ - ls : danh sach
