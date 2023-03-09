@@ -1,6 +1,4 @@
  - cd :di chuyen den
- - cd.. :lui ve 1
- - cd\ :ve goc
- - .\***.py :open
+ - ./***.py :open
  - mkdir ***.py :tao file 
  - ls : danh sach
