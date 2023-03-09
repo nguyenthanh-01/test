@@ -1,5 +1,5 @@
  - git config --global user.email "nguyenthanh.5s4d@gmail.com"
- - git config --global user.name "nhok"
+ - git config --global user.name "LaoHac"
 #
  - mkdir example
  - cd example
