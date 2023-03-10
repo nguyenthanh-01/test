@@ -1,5 +1,7 @@
- - python -m venv venv
+ - python -m venv venv --prompt="name"
  - venv\Scripts\activate
- - python -m pip install <package-name>
  - deactivate
- 
+ - python -m pip install <package-name>==phien_ban requests
+ - python -m pip list
+ - python -m pip freeze > .txt
+ - python -m venv venv --clear
