@@ -3,7 +3,7 @@
 #
  - mkdir code
  - cd code
- - git config --global init.defaultBranch master
+ - git init
  - git status
 #
  - git add test.py
