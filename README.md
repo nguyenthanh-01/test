@@ -3,7 +3,8 @@
 #
  - mkdir code
  - cd code
- - git init
+ - git config --global init.defaultBranch master
+ - it branch -m <name>
  - git status
 #
  - git add test.py
@@ -14,4 +15,3 @@
 #
  - git commit -m "added myname module"
  - git commit -m "created .gitignore"
- 
