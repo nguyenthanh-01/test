@@ -1,4 +1,4 @@
- - python -m venv venv --prompt="name" --without-pip
+ - python -m venv venv --prompt="name"
  - pip install virtualenv
  - virtualenv venv
  - Set-ExecutionPolicy Unrestricted -Scope Process
