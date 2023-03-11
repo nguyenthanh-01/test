@@ -1,4 +1,6 @@
  - python -m venv venv --prompt="name" --without-pip
+ - virtualenv venv
+ - Set-ExecutionPolicy Unrestricted -Scope Process
  - venv\Scripts\activate
  - deactivate
  - python -m pip install requests
