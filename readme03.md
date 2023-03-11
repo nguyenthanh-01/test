@@ -1,6 +1,4 @@
  - python -m venv venv --prompt="name"
- - pip install virtualenv
- - virtualenv venv
  - venv\Scripts\activate
  - deactivate
  - python -m pip install requests
