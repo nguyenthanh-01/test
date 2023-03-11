@@ -4,5 +4,5 @@
  - python -m pip install <package-name>==phien_ban requests
  - python.exe -m pip install --upgrade pip
  - python -m pip list
- - python -m pip freeze > .txt
+ - python -m pip freeze > name.txt
  - python -m venv venv --clear
