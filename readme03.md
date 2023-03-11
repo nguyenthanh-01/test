@@ -1,4 +1,4 @@
- - python -m venv venv --prompt="name"
+ - python -m venv venv --prompt="name" --without-pip
  - venv\Scripts\activate
  - deactivate
  - python -m pip install requests
