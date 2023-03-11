@@ -1,7 +1,5 @@
  - cd :di chuyen den
- - cd\ : ve goc
- - cd.. : lui 1 ô
- - ./test.py :open
+ - python3 test.py :open
  - mkdir code :tao file 
  - ls : danh sach
 
