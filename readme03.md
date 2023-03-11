@@ -1,6 +1,8 @@
  - python -m venv venv --prompt="name"
  - venv\Scripts\activate
  - deactivate
+ - python -m pip install requests
+ - python -m pip install kivy requests
  - python -m pip install <package-name>==phien_ban requests
  - python.exe -m pip install --upgrade pip
  - python -m pip list
