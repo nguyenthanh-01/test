@@ -9,4 +9,5 @@
  - python.exe -m pip install --upgrade pip
  - python -m pip list
  - python -m pip freeze > venv\name.txt
+ - python -m pip install -r name.txt
  - python -m venv venv --clear
