@@ -4,7 +4,6 @@
  - mkdir code
  - cd code
  - git config --global init.defaultBranch master
- - it branch -m <name>
  - git status
 #
  - git add test.py
